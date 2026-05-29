@@ -1,6 +1,6 @@
 # Computer Scientist
 
-##Education
+###Education
 Gisma Univeristy, Berlin
 Bachelors Computer Science
 
