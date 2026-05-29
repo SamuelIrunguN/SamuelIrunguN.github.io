@@ -1,12 +1,12 @@
 # Computer Scientist
 
-###Education
+### Education
 Gisma Univeristy, Berlin
 Bachelors Computer Science
 
 
-###Experience
+### Experience
 Database Administrator
 Scheduling Manager
 
-###Projects
+### Projects
